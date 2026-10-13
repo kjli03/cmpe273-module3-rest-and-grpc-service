@@ -206,18 +206,21 @@ installing both dependency sets and generating the gRPC bindings.
 
 ### Example of a successful REST request and response.
 <img width="496" height="377" alt="Screenshot 2026-10-12 at 10 08 49 PM" src="https://github.com/user-attachments/assets/41a6067f-6e4e-44fb-9f5a-8765ffb0c00d" />
-<img width="496" height="377" alt="Screenshot 2026-10-12 at 10 11 56 PM" src="https://github.com/user-attachments/assets/4aede6b5-1d8e-4a8d-81ce-1a9d342d7109" />
 
 ### Example of a successful gRPC request and response.
 <img width="496" height="377" alt="Screenshot 2026-10-12 at 10 17 37 PM" src="https://github.com/user-attachments/assets/78b86e03-4298-4bfd-8620-fdd65d161fa5" />
 
 ### REST timeout handling.
-<img width="496" height="377" alt="Screenshot 2026-10-12 at 10 12 00 PM" src="https://github.com/user-attachments/assets/cbc13883-77e2-4801-89e7-bc97dd49f6b6" />
+<img width="496" height="377" alt="Screenshot 2026-10-12 at 10 11 56 PM" src="https://github.com/user-attachments/assets/4aede6b5-1d8e-4a8d-81ce-1a9d342d7109" />
 
 ### gRPC deadline handling.
 <img width="496" height="377" alt="Screenshot 2026-10-12 at 10 18 56 PM" src="https://github.com/user-attachments/assets/02d44938-8898-4743-9111-7254e44c9733" />
 
 ### Order Service remains running after the failures.
+rest:
+<img width="496" height="377" alt="Screenshot 2026-10-12 at 10 34 48 PM" src="https://github.com/user-attachments/assets/533762fc-990c-48bf-928a-37c995670ddc" />
+
+gRPC:
 <img width="496" height="377" alt="Screenshot 2026-10-12 at 10 19 15 PM" src="https://github.com/user-attachments/assets/5ce4c8e3-00c8-497b-abf7-f135f4413449" />
 
 
